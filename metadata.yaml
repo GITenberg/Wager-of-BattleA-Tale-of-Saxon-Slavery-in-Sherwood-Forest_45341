@@ -1,0 +1,33 @@
+_repo: Wager-of-BattleA-Tale-of-Saxon-Slavery-in-Sherwood-Forest_45341
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45341-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Herbert, Henry William
+    birthdate: 1807
+    deathdate: 1858
+    gutenberg_agent_id: '8846'
+    url: http://www.gutenberg.org/2009/agents/8846
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Henry_William_Herbert
+    - http://www.gutenberg.org/browse/authors/d#a35785
+    - http://www.gutenberg.org/browse/authors/f#a35786
+description: ''
+gutenberg_issued: '2014-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45341'
+  lccn: 07004297
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anglo-Saxons -- Fiction'
+- !lcsh 'Sherwood Forest (England) -- Fiction'
+- !lcsh 'Great Britain -- History -- Norman period, 1066-1154 -- Fiction'
+- !lcc 'PS'
+title: 'Wager of Battle: A Tale of Saxon Slavery in Sherwood Forest'
+url: http://www.gutenberg.org/ebooks/45341
